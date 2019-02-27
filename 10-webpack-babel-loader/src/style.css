@@ -1,0 +1,5 @@
+body {
+  background-color: tomato;
+  background-image: url('../img/webpack.png');
+  background-repeat: no-repeat;
+}
