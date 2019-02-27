@@ -474,4 +474,5 @@ ASALocalRun/
 # BeatPulse healthcheck temp database
 healthchecksdb
 
-# End of https://www.gitignore.io/api/macos,windows,webstorm,visualstudio
+dist/
+build/
